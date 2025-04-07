@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Carne Asada Supreme",
+    "description": "Grilled steak, fresh cilantro, and zesty lime crema",
+    "price": "16.00",
+    "src": "/images/carne-asada.jpg",
+    "featured": true,
+    "rating": "4.9"
+  },
+  {
+    "name": "Spicy Shrimp Diablo",
+    "description": "Shrimp with fiery chipotle sauce and avocado",
+    "price": "17.00",
+    "src": "/images/shrimp.jpg",
+    "featured": true,
+    "rating": "4.8"
+  },
+  {
+    "name": "Al Pastor Classic",
+    "description": "Marinated pork, pineapple, and onions on a soft tortilla",
+    "price": "14.00",
+    "src": "/images/al-pastor.jpg",
+    "featured": true,
+    "rating": "4.9"
+  },
+  {
+    "name": "Crunchy Chicken Tinga",
+    "description": "Shredded chicken in smoky tomato sauce with cabbage",
+    "price": "15.00",
+    "src": "/images/chicken-tinga.jpg",
+    "featured": false,
+    "rating": "4.6"
+  },
+  {
+    "name": "Baja Fish Taco",
+    "description": "Crispy cod, chipotle mayo, and slaw on corn tortilla",
+    "price": "16.00",
+    "src": "/images/baja-fish.jpg",
+    "featured": false,
+    "rating": "4.5"
+  },
+  {
+    "name": "Barbacoa Brisket",
+    "description": "Slow-cooked beef with pickled red onions",
+    "price": "17.00",
+    "src": "/images/barbacoa-brisket.jpg",
+    "featured": true,
+    "rating": "4.9"
+  },
+  {
+    "name": "Veggie Verde",
+    "description": "Grilled zucchini, corn, and tangy tomatillo salsa",
+    "price": "12.00",
+    "src": "/images/veggie-verde.jpg",
+    "featured": false,
+    "rating": "4.2"
+  },
+  {
+    "name": "Chorizo & Potato",
+    "description": "Spicy sausage with crispy potato cubes",
+    "price": "13.00",
+    "src": "/images/chorizo-potato.jpg",
+    "featured": false,
+    "rating": "4.7"
+  },
+  {
+    "name": "Crispy Duck Confit",
+    "description": "Rich duck, hoisin glaze, and crunchy slaw",
+    "price": "18.00",
+    "src": "/images/duck-confit.jpg",
+    "featured": false,
+    "rating": "4.8"
+  },
+  {
+    "name": "Korean BBQ Beef",
+    "description": "Sweet soy-marinated beef with kimchi slaw",
+    "price": "17.00",
+    "src": "/images/korean-bbq.jpg",
+    "featured": false,
+    "rating": "4.4"
+  },
+  {
+    "name": "Buffalo Cauliflower",
+    "description": "Crispy cauliflower, buffalo sauce, ranch drizzle",
+    "price": "13.00",
+    "src": "/images/buffalo-cauliflower.jpg",
+    "featured": false,
+    "rating": "4.3"
+  },
+  {
+    "name": "Pork Belly Bliss",
+    "description": "Seared pork belly with spicy mango salsa",
+    "price": "15.00",
+    "src": "/images/pork-belly.jpg",
+    "featured": false,
+    "rating": "3.9"
+  }
+]
